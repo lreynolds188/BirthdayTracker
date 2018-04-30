@@ -9,4 +9,4 @@ The aim is to provide Sam with a report per month of upcoming birthdays includin
 
 The application will allow Sam to: •	Enter new person records - names, likes, dislikes, day of birth and month of birth. •	Various navigation buttons: •	First, last, next and previous record buttons •	A Find button to search for an existing record by person name •	New, Save and Delete buttons. •	A popup screen to show the upcoming birthdays for the current month, presented in order of first to last in the month.
 
-The application will save and load the people data to and from a text file: MyFriendData.txt.
+The application will save and load the people data to and from an SQL Database
