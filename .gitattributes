@@ -3,6 +3,7 @@
 ###############################################################################
 * text=auto
 MyFriendTrackerSQL/Scripts/* linguist-vendored
+MyFriendTrackerSQL/Utilities/* linguist-vendored
 
 ###############################################################################
 # Set default behavior for command prompt diff.
