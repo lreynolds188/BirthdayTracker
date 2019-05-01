@@ -2,8 +2,8 @@
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
 * text=auto
-MyFriendTrackerSQL/Scripts/* linguist-vendored
-MyFriendTrackerSQL/Utilities/* linguist-vendored
+* linguist-vendored
+*.aspx linguist-vendored=false
 
 ###############################################################################
 # Set default behavior for command prompt diff.
